@@ -7,8 +7,8 @@ Kelas: TI_24A
 ## Tentang Repository
 aplikasi ini memungkinkan pengguna untuk mencek kesehatan tubuh mulai dari berat bandan dan tinggi badan
 
-## Progress Belajar
-- [ ] Setup Git lokal
-- [ ] Buat repository GitHub
-- [ ] Commit pertama
+## Progress aplikasi
+- [ ] Menambahkan README awal dengan deskripsi proyek aplikasi pemeriksa kesehatan (BMI, tinggi, berat)
+- [ ] Memperbarui README: menambahkan daftar fitur dan penjelasan perhitungan BMI dari tinggi dan berat badan
+- [ ] Merapikan format README dan menambahkan panduan penggunaan untuk input tinggi dan berat badan
 
